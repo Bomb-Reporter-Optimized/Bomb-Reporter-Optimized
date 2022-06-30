@@ -2,7 +2,8 @@
 Application using React Native to help identify and rapidly report explosive hazards.
 
 Please see wire frame road map for an idea and the original wire frame. 
-Original App is here for Inspiration: https://github.com/Team-4-capstone/bomb-reporter
+Original App is here for Inspiration:
+https://github.com/Team-4-capstone/bomb-reporter
 
 The constant constraint we have is that rapid reporting needs to always be 3 or less taps away.
 
